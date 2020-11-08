@@ -1,11 +1,5 @@
 #%% Convert the PowerPoint PPTs to PDFs in the Working Folder
 
-# Purpose: Converts the PowerPoint PPTs to Adobe PDF in the working folder
-
-# Author:  Matthew Renze
-
-# Usage:   python.exe ConvertHere.py
-
 # Note: Uses the working folder (i.e. the folder containing the running script)
 # Note: Also works with PPTX file format
 
